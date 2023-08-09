@@ -2,6 +2,3 @@ torch
 transformers
 streamlit
 pandas
-torch.nn
-BertJapaneseTokenizer
-torch.nn.functional 
