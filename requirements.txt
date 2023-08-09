@@ -10,8 +10,8 @@ blinker==1.6.2
 cachetools==5.3.1
 certifi==2023.5.7
 charset-normalizer==3.2.0
-click @ file:///C:/ci_311/click_1676433091657/work
-colorama @ file:///C:/ci_311/colorama_1676422310965/work
+click
+colorama
 comm==0.1.3
 contourpy==1.1.0
 cycler==0.11.0
@@ -20,7 +20,7 @@ debugpy==1.6.7
 decorator==5.1.1
 executing==1.2.0
 filelock==3.9.0
-Flask @ file:///C:/ci_311/flask_1676436667658/work
+Flask
 fonttools==4.41.0
 frozenlist==1.4.0
 fsspec==2023.6.0
@@ -37,9 +37,9 @@ importlib-metadata==6.8.0
 ipadic==1.0.0
 ipykernel==6.22.0
 ipython==8.12.0
-itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+itsdangerous
 jedi==0.18.2
-Jinja2 @ file:///C:/ci_311/jinja2_1676424968965/work
+Jinja2
 joblib==1.3.1
 jsonschema==4.18.4
 jsonschema-specifications==2023.7.1
@@ -51,7 +51,7 @@ langsmith==0.0.12
 lightning-utilities==0.9.0
 Markdown==3.4.4
 markdown-it-py==3.0.0
-MarkupSafe @ file:///C:/ci_311/markupsafe_1676424152318/work
+MarkupSafe
 marshmallow==3.20.1
 matplotlib==3.7.2
 matplotlib-inline==0.1.6
@@ -133,6 +133,6 @@ urllib3==1.26.16
 validators==0.20.0
 watchdog==3.0.0
 wcwidth==0.2.6
-Werkzeug @ file:///C:/b/abs_8578rs2ra_/croot/werkzeug_1679489759009/work
+Werkzeug
 yarl==1.9.2
 zipp==3.16.2
